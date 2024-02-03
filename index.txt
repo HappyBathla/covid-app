@@ -1,6 +1,6 @@
 COVID-19 Tracker
 
-This is a corona html template made by codewithsadee
+This is a corona html template made by happy
 
 
 
